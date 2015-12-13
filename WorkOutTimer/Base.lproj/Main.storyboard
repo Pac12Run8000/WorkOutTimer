@@ -96,6 +96,7 @@
                         <outlet property="lblLapReset" destination="wsY-4B-T2B" id="WFm-Tv-ctZ"/>
                         <outlet property="lblStartStop" destination="9Gl-8h-1cB" id="hL8-p3-qmF"/>
                         <outlet property="lblStopWatchDisplay" destination="ej9-0P-Ekp" id="iNI-i8-Rsd"/>
+                        <outlet property="tblviewLaps" destination="57D-e3-fJZ" id="uf9-bm-pzJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
